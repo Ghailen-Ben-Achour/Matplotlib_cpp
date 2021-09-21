@@ -14,7 +14,7 @@ target_link_libraries(main /home/ghailen/anaconda3/lib/libpython3.7m.so)
 ```
 
 Once paths are set, you can build and excecute by accessing to ```2dplot`` folder and running the following commands.
-bash```
+```bash
 mkdir build && cd build
 cmake ..
 make
