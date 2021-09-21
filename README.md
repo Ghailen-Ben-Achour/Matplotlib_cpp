@@ -20,3 +20,5 @@ cmake ..
 make
 ./main
 ```
+
+![Image](https://github.com/Ghailen-Ben-Achour/Matplotlib_cpp/blob/main/images/2dplot.png)
