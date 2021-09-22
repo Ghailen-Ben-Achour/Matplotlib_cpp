@@ -25,3 +25,9 @@ make
 
 ### 3dplot
 Same steps should be reproduced in order to make a 3d plot. Starting by accessing ```3dplot``` and running the following commands.
+```bash
+mkdir build && cd build
+cmake ..
+make
+./main
+```
