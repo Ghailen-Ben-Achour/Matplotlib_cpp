@@ -24,4 +24,4 @@ make
 ![Image](https://github.com/Ghailen-Ben-Achour/Matplotlib_cpp/blob/main/images/2dplot.png)
 
 ### 3dplot
-Same steps should be reproduced in order to make a 3d plot. Starting by
+Same steps should be reproduced in order to make a 3d plot. Starting by accessing ```3dplot``` and running the following commands.
