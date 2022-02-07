@@ -1,4 +1,5 @@
 cmake_minimum_required(VERSION 3.14)
+
 project(PLOT)
 
 
@@ -14,6 +15,7 @@ add_executable(main src/matplotlib.cpp
                    )
 
 target_include_directories(main PRIVATE include
+			main /usr/include/eigen3
 			main PRIVATE /home/ghailen/anaconda3/include/python3.7m
 			main PRIVATE /home/ghailen/anaconda3/lib/python3.7/site-packages/numpy/core/include)
 
