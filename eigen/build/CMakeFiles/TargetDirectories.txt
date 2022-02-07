@@ -1,3 +1,0 @@
-/home/ghailen/3D/Matplotlib_cpp/eigen/build/CMakeFiles/rebuild_cache.dir
-/home/ghailen/3D/Matplotlib_cpp/eigen/build/CMakeFiles/edit_cache.dir
-/home/ghailen/3D/Matplotlib_cpp/eigen/build/CMakeFiles/main.dir
